@@ -1,0 +1,36 @@
+body {
+    font-family: "Poppins", serif;
+    background-color: #264653;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    background-color: #2a9d8f;
+    padding: 0px;
+    margin: 0px 0px 100px 0px;
+    color: white;
+    text-align: center;
+    position: relative;
+    height: 30%;
+}
+
+textarea {
+    position: relative;
+    width: 48%;
+    height: 60%;
+    resize: none;
+}
+
+button {
+    position: relative;
+    width: 60%;
+    height: 60px;
+    left: 50%;
+    transform: translate(-50%);    
+    margin: 100px 0px 0px 0px;
+    border-radius: 50px;
+    font-size: x-large;
+    background-color: #2a9d8f;
+    color: white;
+}
